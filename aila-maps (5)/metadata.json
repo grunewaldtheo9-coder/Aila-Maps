@@ -1,0 +1,6 @@
+{
+  "name": "Aila Maps",
+  "description": "An elegant mapping app with smart routing with Gemini AI and neomorphic Soft UI design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
